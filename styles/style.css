@@ -17,3 +17,24 @@
 .backgroud-color{
   background-color: #F6F9FF;
 }
+
+.background-img-1{
+  background-image: url(../assets/deal-bloom.png);
+  background-repeat: no-repeat;
+  background-color: #00000066;
+  background-blend-mode: darken;
+}
+
+.background-img-2{
+  background-image: url(../assets/deal-ana.png);
+  background-repeat: no-repeat;
+  background-color: #00000066;
+  background-blend-mode: darken;
+}
+
+.background-img-3{
+  background-image: url(../assets/deal-zabo.png);
+  background-repeat: no-repeat;
+  background-color: #00000066;
+  background-blend-mode: darken;
+}
