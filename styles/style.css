@@ -38,3 +38,8 @@
   background-color: #00000066;
   background-blend-mode: darken;
 }
+.background-img-4{
+  background-image: url(../assets/news-letter-bg.png);
+  background-repeat: no-repeat;
+  background-image: ;
+}
